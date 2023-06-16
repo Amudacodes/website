@@ -1,26 +1,3 @@
-<!-- <script>
-    import Logo from "./Logo.svelte";
-</script>
-<div class="flex gap-4 h-[25rem] bg-[F6F7FC]">
-    <div class="flex flex-col">
-        <a href="/">
-            <Logo/>
-        </a>
-    </div>
-
-    <div class="flex flex-col gap-6">
-        <h1>Support</h1>
-
-        <div class="flex gap-4">
-            <a href="/">The company</a>
-            <a href="/">Our clients</a>
-            <a href="">products</a>
-        </div>
-    </div>
-</div> -->
-
-
-
 <footer class="bg-[#23286b] text-gray-400 py-12">
 
     <div class="container mx-auto px-4 lg:px-8 flex flex-wrap justify-between">
